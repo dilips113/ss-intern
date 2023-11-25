@@ -1,0 +1,5 @@
+ID, Owner, Image, Breed, Count, Age, Price, Mobile, Mail
+1, Dilip, 1.jpg, Pesticide,  , Fungicides Insecticides, 260 to 3000, +91 9095973700, prabhu@gmail.com
+2, Ram , 2.jpg, Apiculture, ,Damer honey and Indian honey, 900 to 3500, +91 8668111235, dilip18@gmail.com
+3, Lokesh, 3.jpg, Manure, ,Micronutrients Macronutrients, 850 to 5000, +91 9876543021, pradeep@gmail.com
+3, Vijay, 4.jpg, Agricultural Tools, , All agricultural tools,150 to 25000, +91 9876543021, vijay@gmail.com
